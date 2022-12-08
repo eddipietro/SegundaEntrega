@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "P1",
+    "precio": 1200,
+    "imgURL": "puntocom",
+    "descripcion": "descripcion larga del producto ",
+    "codigo": "zxasqw11",
+    "stock": 20,
+    "id": "jdksflfsjskdlñskfldkskfls",
+    "timestamp": "132840298340892"
+  },
+  {
+    "nombre": "P2",
+    "precio": 1900,
+    "imgURL": "puntocom",
+    "descripcion": "descripcion larga del producto ",
+    "codigo": "zxasqw12",
+    "stock": 10,
+    "id": "rutreierutieiurieuoi",
+    "timestamp": "3824782477292"
+  },
+  {
+    "nombre": "P3",
+    "precio": 1300,
+    "imgURL": "puntocom",
+    "descripcion": "descripcion larga del producto ",
+    "codigo": "zxasqw13",
+    "stock": 30,
+    "id": "jxvnxbnvsdjksjfsllks",
+    "timestamp": "3473847"
+  },
+  {
+    "nombre": "P4",
+    "precio": 5000,
+    "imgURL": "puntocom",
+    "descripcion": "descripcion larga del prod",
+    "codigo": "3324386786",
+    "stock": "12",
+    "uuid": "c1fd8650-3361-4cdc-b6f6-35b6ef627b9c",
+    "timestamp": "8438353985434"
+  }
+]
