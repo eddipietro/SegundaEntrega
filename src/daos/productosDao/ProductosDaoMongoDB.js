@@ -1,8 +1,16 @@
 import ContenedorMongo from "../../contenedores/ContenedorMongoDB.js";
 
-class ProductClass extends ContenedorMongo{
-constructor(){
-    super('products')
-}
-}
- export default ProductClass;
+
+
+
+ class ProductClass extends ContenedorMongo{
+
+    constructor(){
+    
+        super(productModels)
+    
+    }
+    
+    }
+    
+     export default ProductClass;

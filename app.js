@@ -37,12 +37,4 @@ app.get('/', (_req, res) => {
 app.use(errorHandler);
 
 
-// const PORT = process.env.PORT || 3000;
-// http.listen(PORT, () => console.info(`Server up and running on port ${PORT}`));
-
-// io.on('connection', socket => {
-//     console.log(socket);
-//     console.log('nuevo cliente socket conectado')
-// })
-
 export default http;
